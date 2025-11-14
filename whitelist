@@ -1,5 +1,7 @@
-[
-    "DEV123456",
-    "DEV654321",
-    "DEV222236"
-]
+{
+    "whitelist": [
+        "77696e64-6f77-7331-3078-363477696e64",
+        "your-device-id-here",
+        "another-device-id-here"
+    ]
+}
