@@ -1,7 +1,8 @@
 {
-    "whitelist": [
-        "41fb2f9c-ba83-46e2-a765-0e7586a8eaef",
-        "77696e64-6f77-7331-3078-363477696e64",
-        "another-device-id-here"
+    "whitelistedIds": [
+        4706,
+        67890,
+        54321,
+        98765
     ]
-}
+}p
